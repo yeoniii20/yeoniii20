@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋
-
-I'm Suyeon, a passionate frontend developer.
