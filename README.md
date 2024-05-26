@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **yeoniii20/yeoniii20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=300&section=header&text=Hi%20I'm%20Suyeon&fontSize=70&fontColor=ffffff)
