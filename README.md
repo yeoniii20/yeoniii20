@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-
+<div style="max-width: 400px; margin: auto;">
 <!-- Technology Stack Badges -->
 <h3>🌟 Tech Stack 🌟</h3>
 <div></div>
@@ -74,6 +74,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence Badge"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
 </p>
+</div>
 
 <br>
 <br>
