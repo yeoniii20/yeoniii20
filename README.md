@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 <br>
 <br>
+<br>
+<br>
 
 <!-- Technology Stack Badges -->
 <h2>🌟 Tech Stack 🌟</h2>
