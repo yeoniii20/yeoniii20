@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ![Suyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm)
 
-[![Mazassumnida's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact)](https://github.com/yeoniii20/mazassumnida)
+[![Mazassumnida's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&bg_color=373f51&title_color=ebcfb2&text_color=ebcfb2&icon_color=ebcfb2)](https://github.com/yeoniii20/mazassumnida)
+
 
 
 
