@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=373f51&height=150&section=header&text=Hi%20I'm%20Suyeon&fontSize=30&fontColor=ebcfb2" alt="header" style="width:80%;"> 
+<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=373f51&height=120&section=header&text=Hi%20I'm%20Suyeon&fontSize=30&fontColor=ebcfb2" alt="header" style="width:80%;"> 
+
+<br>
+<br>
 
 <!-- Technology Stack Badges -->
 <h2>🌟 Tech Stack 🌟</h2>
