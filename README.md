@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 <div style="max-width: 400px; margin: auto;">
 <!-- Technology Stack Badges -->
-<h3>🌟 Tech Stack 🌟</h3>
+<h3><strong>🌟 Tech Stack 🌟</strong></h3>
 <div></div>
 <br>
 <br>
