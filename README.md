@@ -19,16 +19,13 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=373f51&height=200&section=header&text=Hi%20I'm%20Suyeon&fontSize=60&fontColor=ebcfb2" alt="header" style="width:80%;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm" alt="GitHub Stats" style="width:80%;">
+![Suyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm)
 
-<a href="https://github.com/yeoniii20/mazassumnida">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&bg_color=373f51&title_color=e07a5f&text_color=ebcfb2&icon_color=ebcfb2" alt="Mazassumnida" style="width:80%;">
-</a>
+[![Mazassumnida's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&bg_color=373f51&title_color=e07a5f&text_color=ebcfb2&icon_color=ebcfb2)](https://github.com/yeoniii20/mazassumnida)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yeoniii20&theme=calm&background=373f51&ring=e07a5f&fire=e07a5f&currStreakLabel=ebcfb2&sideNums=ebcfb2&sideLabels=ebcfb2&dates=ebcfb2" alt="GitHub Streak" style="width:80%;">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeoniii20&theme=calm&background=373f51&ring=e07a5f&fire=e07a5f&currStreakLabel=ebcfb2&sideNums=ebcfb2&sideLabels=ebcfb2&dates=ebcfb2)](https://git.io/streak-stats)
 
 </div>
-
 
 
 
