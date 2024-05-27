@@ -24,16 +24,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<!-- GitHub Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeoniii20/yeoniii20/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeoniii20/yeoniii20/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/yeoniii20/yeoniii20/output/github-contribution-grid-snake.svg" style="width:80%;">
-</picture>
-
-<br>
-<br>
-
 <!-- Technology Stack Badges -->
 <h2>🌟 Tech Stack 🌟</h2>
 
