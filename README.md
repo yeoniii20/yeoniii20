@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=373f51&height=250&section=header&text=Hi%20I'm%20Suyeon&fontSize=70&fontColor=ebcfb2)
 
-![Suyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm)
+![Suyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm) [![Mazassumnida's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&bg_color=373f51&title_color=e07a5f&text_color=ebcfb2&icon_color=ebcfb2)](https://github.com/yeoniii20/mazassumnida)
 
-[![Mazassumnida's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&bg_color=373f51&title_color=e07a5f&text_color=ebcfb2&icon_color=ebcfb2)](https://github.com/yeoniii20/mazassumnida)
+
 
 
 
