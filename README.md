@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <!-- Technology Stack Badges -->
 <h2>🌟 Tech Stack 🌟</h2>
 
+<br>
+<br>
 
 <h3>🧩 Frontend 🧩</h3>
 <p>
@@ -39,12 +41,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
 </p>
 
+<br>
+
 <h3>🛠️ Backend 🛠️</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest-api&logoColor=white" alt="REST API Badge"/>
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io Badge"/>
 </p>
+
+<br>
 
 <h3>⚙️ DevOps & Tools ⚙️</h3>
 <p>
@@ -54,6 +60,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Fork-000000?style=for-the-badge&logo=fork&logoColor=white" alt="Fork Badge"/>
 </p>
 
+<br>
+
 <h3>📝 Design & Collaboration 📝</h3>
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
@@ -62,6 +70,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
 </p>
 
+<br>
+<br>
+<br>
+<br>
 
 
 ![Suyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm)[![Mazassumnida's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&bg_color=373f51&title_color=e07a5f&text_color=ebcfb2&icon_color=ebcfb2)](https://github.com/yeoniii20/mazassumnida)
