@@ -17,10 +17,20 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=373f51&height=120&section=header&text=Hi%20I'm%20Suyeon&fontSize=30&fontColor=ebcfb2" alt="header" style="width:80%;"> 
+<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=373f51&height=120&section=header&text=Hi%20I'm%20Suyeon&fontSize=40&fontColor=ebcfb2" alt="header" style="width:100%;"> 
 
 <br>
 <br>
+<br>
+<br>
+
+<!-- GitHub Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeoniii20/yeoniii20/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeoniii20/yeoniii20/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/yeoniii20/yeoniii20/output/github-contribution-grid-snake.svg" style="width:80%;">
+</picture>
+
 <br>
 <br>
 
