@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=300&section=header&text=Hi%20I'm%20Suyeon&fontSize=70&fontColor=ffffff)
+
+![Suyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
