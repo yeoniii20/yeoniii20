@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<div align="center" style="max-width: 800px; margin: auto;">
 
 <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=373f51&height=120&section=header&text=Hi%20I'm%20Suyeon🚗🚘🚛&fontSize=40&fontColor=ebcfb2" alt="header" style="width:100%;"> 
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- Technology Stack Badges -->
 <h3>🌟 Tech Stack 🌟</h3>
-
+<div></div>
 <br>
 <br>
 
