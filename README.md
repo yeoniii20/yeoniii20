@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ![Suyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm)
 
+[![Mazassumnida's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact)](https://github.com/yeoniii20/mazassumnida)
 
 
 
