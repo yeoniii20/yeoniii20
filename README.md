@@ -21,12 +21,10 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<br>
 <div style="max-width: 400px; margin: auto;">
 <!-- Technology Stack Badges -->
 <h3><strong>🌟 Tech Stack 🌟</strong></h3>
 <div></div>
-<br>
 <br>
 
 <h4>🧩 Frontend 🧩</h4>
@@ -44,18 +42,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Emotion-C65D8E?style=for-the-badge&logo=emotion&logoColor=white" alt="Emotion Badge"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
 </p>
-
 <br>
-
 <h4>🛠️ Backend 🛠️</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest-api&logoColor=white" alt="REST API Badge"/>
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io Badge"/>
 </p>
-
 <br>
-
 <h4>⚙️ DevOps & Tools ⚙️</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
@@ -63,9 +57,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/Fork-000000?style=for-the-badge&logo=fork&logoColor=white" alt="Fork Badge"/>
 </p>
-
 <br>
-
 <h4>📝 Design & Collaboration 📝</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
@@ -77,9 +69,6 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<br>
-<br>
-
 
 ![Suyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm)
 [![Mazassumnida's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&bg_color=373f51&title_color=e07a5f&text_color=ebcfb2&icon_color=ebcfb2)](https://github.com/yeoniii20/mazassumnida)
