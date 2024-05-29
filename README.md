@@ -70,6 +70,7 @@ Here are some ideas to get you started:
     <th>Management</th>
     <th>Environment</th>
     <th>API</th>
+    <th>Algorithm & Game Development</th>
   </tr>
   <tr>
     <td align="center">
@@ -90,15 +91,12 @@ Here are some ideas to get you started:
     <td align="center">
       <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white" alt="REST API Badge"/>
     </td>
+     <td align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/PyGame-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyGame Badge"/>
+    </td>
   </tr>
 </table>
-
-## Algorithm & Game Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/PyGame-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyGame Badge"/>
-</p>
 
 <br>
 <br>
