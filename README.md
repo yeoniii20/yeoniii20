@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <div style="max-width: 400px; margin: auto;">
 <h2>🌟 Tech Stack 🌟</h2>
 <br/>
+  
 ## Skills
 
 <table>
