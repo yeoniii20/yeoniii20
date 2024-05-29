@@ -67,6 +67,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
 </p>
 </div>
+<h4>🧩 Algorithm & Game Development 🧩</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/PyGame-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyGame Badge"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+</p>
 
 <br>
 <br>
