@@ -47,7 +47,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native Badge"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo Badge"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Badge"/>
-        <img src="https://img.shields.io/badge/Context-764ABC?style=flat-square&logo=context&logoColor=white" alt="Context Badge"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js Badge"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components Badge"/>
   <img src="https://img.shields.io/badge/Emotion-C65D8E?style=flat-square&logo=emotion&logoColor=white" alt="Emotion Badge"/>
