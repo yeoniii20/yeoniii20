@@ -55,7 +55,7 @@ Here are some ideas to get you started:
     <td align="center">
       <img src="https://img.shields.io/badge/WebStorm-000020?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm Badge"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
-<img src="https://img.shields.io/badge/Git_Fork-000000?style=for-the-badge&logo=git-fork&logoColor=white" alt="Git Fork Badge"/>
+<img src="https://img.shields.io/badge/Git_Fork-000000?style=for-the-badge&logo=gitfork&logoColor=white" alt="Git Fork Badge"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger Badge"/>
     </td>
