@@ -114,11 +114,6 @@ Here are some ideas to get you started:
 </div>
 
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yeoniii20&theme=calm&no-frame=true&row=1&column=6" alt="GitHub Trophy"/>
-</div>
-
-
 
 </div>
 
