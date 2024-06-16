@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=373f51&height=120&section=header&text=Hi%20I'm%20Suyeon🚗🚘🚛&fontSize=40&fontColor=ebcfb2" alt="header" style="width:100%;"> 
 
-### 연락처 및 소셜 링크
+### 🌟 Connect 🌟
 
 <div align="center">
   <a href="mailto:6suyeon@gmail.com">
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<h3 align="center">Suyeon's GitHub Stats</h3>
+<h3 align="center">🌟 Stats 🌟 </h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm" alt="Suyeon's GitHub stats" height="180"/>
