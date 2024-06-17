@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <h2>🛠️ Tech Stack 🛠️</h2>
 <br/>
   
-## 🌟 Skills 🌟
+### 🤖 Skills 🤖
 
 <table>
   <tr>
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-## 🌟 Tools 🌟
+### 🖥️ Tools 🖥️
 
 <table>
   <tr>
@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-
+<br>
 
 
 <div align="center">
