@@ -40,16 +40,16 @@ Here are some ideas to get you started:
 
 ### 🤖 Skills 🤖
 
-<table>
+<table style="width:100%;">
   <tr>
-    <td><strong>Back-End</strong></td>
-    <td align="center">
+    <td style="width:20%;"><strong>Back-End</strong></td>
+    <td style="width:80%;" align="center">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
     </td>
   </tr>
   <tr>
-    <td><strong>Front-End</strong></td>
-    <td align="center">
+    <td style="width:20%;"><strong>Front-End</strong></td>
+    <td style="width:80%;" align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3 Badge"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
@@ -66,8 +66,8 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td><strong>IDE</strong></td>
-    <td align="center">
+    <td style="width:20%;"><strong>IDE</strong></td>
+    <td style="width:80%;" align="center">
       <img src="https://img.shields.io/badge/WebStorm-000020?style=flat-square&logo=webstorm&logoColor=white" alt="WebStorm Badge"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
       <img src="https://img.shields.io/badge/Fork-000000?style=flat-square&logo=fork&logoColor=white" alt="Fork Badge"/>
@@ -79,10 +79,10 @@ Here are some ideas to get you started:
 
 ### 🖥️ Tools 🖥️
 
-<table>
+<table style="width:100%;">
   <tr>
-    <td><strong>Communication</strong></td>
-    <td align="center">
+    <td style="width:20%;"><strong>Communication</strong></td>
+    <td style="width:80%;" align="center">
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack Badge"/>
       <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge"/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma Badge"/>
@@ -92,32 +92,33 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td><strong>Management</strong></td>
-    <td align="center">
+    <td style="width:20%;"><strong>Management</strong></td>
+    <td style="width:80%;" align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
     </td>
   </tr>
   <tr>
-    <td><strong>Environment</strong></td>
-    <td align="center">
+    <td style="width:20%;"><strong>Environment</strong></td>
+    <td style="width:80%;" align="center">
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
     </td>
   </tr>
   <tr>
-    <td><strong>API</strong></td>
-    <td align="center">
+    <td style="width:20%;"><strong>API</strong></td>
+    <td style="width:80%;" align="center">
       <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white" alt="REST API Badge"/>
     </td>
   </tr>
   <tr>
-    <td><strong>Algorithm & Game Development</strong></td>
-    <td align="center">
+    <td style="width:20%;"><strong>Algorithm & Game Development</strong></td>
+    <td style="width:80%;" align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge"/>
       <img src="https://img.shields.io/badge/PyGame-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyGame Badge"/>
     </td>
   </tr>
 </table>
+
 
 
 <br>
