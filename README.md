@@ -79,11 +79,12 @@ Here are some ideas to get you started:
 
 <table style="width:100%; table-layout:fixed;">
   <tr>
-    <th style="width:20%;">Communication</th>
-    <th style="width:20%;">Management</th>
-    <th style="width:20%;">Environment</th>
-    <th style="width:20%;">API</th>
-    <th style="width:20%;">Algorithm & Game Development</th>
+    <th style="width:16%;">Communication</th>
+    <th style="width:16%;">Management</th>
+    <th style="width:16%;">Environment</th>
+    <th style="width:16%;">API</th>
+    <th style="width:16%;">CI/CD</th>
+    <th style="width:16%;">Algorithm & Game Development</th>
   </tr>
   <tr>
     <td align="center" style="vertical-align:middle;">
@@ -105,11 +106,16 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white" alt="REST API Badge" style="margin: 5px;"/>
     </td>
     <td align="center" style="vertical-align:middle;">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions Badge" style="margin: 5px;"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins Badge" style="margin: 5px;"/>
+    </td>
+    <td align="center" style="vertical-align:middle;">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/PyGame-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyGame Badge" style="margin: 5px;"/>
     </td>
   </tr>
 </table>
+
 
 
 
