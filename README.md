@@ -105,7 +105,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Confluence-0052CC?style=flat-square&logo=confluence&logoColor=white" alt="Confluence Badge" style="margin: 5px;"/>
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Badge" style="margin: 5px;"/>&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Badge" style="margin: 5px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <tr style="border: 1px solid #ddd;">
