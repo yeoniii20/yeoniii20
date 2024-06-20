@@ -79,7 +79,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
    <tr style="border: 1px solid #ddd;">
-    <td style="width:25%; font-weight:bold; text-align:left; border: 1px solid #ddd;">API Document &nbsp;&nbsp;</td>
+    <td style="width:25%; font-weight:bold; text-align:left; border: 1px solid #ddd;">API Document &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td style="width:75%; text-align:left; border: 1px solid #ddd;">
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" alt="Swagger Badge" style="margin: 5px;"/>
