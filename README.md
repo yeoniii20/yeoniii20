@@ -48,7 +48,6 @@ Here are some ideas to get you started:
   <tr style="border: 1px solid #ddd;">
     <td rowspan="3" style="width:25%; font-weight:bold; text-align:left; border: 1px solid #ddd;">Front-End</td>
     <td style="width:75%; text-align:left; border: 1px solid #ddd;">
-      <strong>Styles:</strong>
       <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Emotion-C65D8E?style=flat-square&logo=emotion&logoColor=white" alt="Emotion Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge" style="margin: 5px;"/>
@@ -56,7 +55,6 @@ Here are some ideas to get you started:
   </tr>
   <tr style="border: 1px solid #ddd;">
     <td style="width:75%; text-align:left; border: 1px solid #ddd;">
-      <strong>Framework & Library:</strong>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native Badge" style="margin: 5px;"/>
@@ -67,7 +65,6 @@ Here are some ideas to get you started:
   </tr>
   <tr style="border: 1px solid #ddd;">
     <td style="width:75%; text-align:left; border: 1px solid #ddd;">
-      <strong>Language:</strong>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3 Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge" style="margin: 5px;"/>
