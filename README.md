@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+<br/>
 
 ## 📬 Connect
 
@@ -39,17 +40,17 @@ Here are some ideas to get you started:
 
 ### 🤖 Skills
 
-<table style="width:100%;">
+<table style="width:100%; table-layout:fixed;">
   <tr>
-    <th>Back-End</th>
-    <th>Front-End</th>
-    <th>IDE</th>
+    <th style="width:33%; text-align:center;">Back-End</th>
+    <th style="width:33%; text-align:center;">Front-End</th>
+    <th style="width:33%; text-align:center;">IDE</th>
   </tr>
   <tr>
-    <td align="center" style="vertical-align:middle;">
+    <td style="vertical-align:top; text-align:center;">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js Badge" style="margin: 5px;"/>
     </td>
-    <td align="center" style="vertical-align:middle;">
+    <td style="vertical-align:top; text-align:center;">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3 Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge" style="margin: 5px;"/>
@@ -64,7 +65,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Emotion-C65D8E?style=flat-square&logo=emotion&logoColor=white" alt="Emotion Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge" style="margin: 5px;"/>
     </td>
-    <td align="center" style="vertical-align:middle;">
+    <td style="vertical-align:top; text-align:center;">
       <img src="https://img.shields.io/badge/WebStorm-000020?style=flat-square&logo=webstorm&logoColor=white" alt="WebStorm Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Fork-000000?style=flat-square&logo=fork&logoColor=white" alt="Fork Badge" style="margin: 5px;"/>
@@ -76,17 +77,17 @@ Here are some ideas to get you started:
 
 ### 🖥️ Tools
 
-<table style="width:100%;">
+<table style="width:100%; table-layout:fixed;">
   <tr>
-    <th>Communication</th>
-    <th>Management</th>
-    <th>Environment</th>
-    <th>API</th>
-    <th>CI/CD</th>
-    <th>Algorithm & Game Development</th>
+    <th style="width:16%; text-align:center;">Communication</th>
+    <th style="width:16%; text-align:center;">Management</th>
+    <th style="width:16%; text-align:center;">Environment</th>
+    <th style="width:16%; text-align:center;">API</th>
+    <th style="width:16%; text-align:center;">CI/CD</th>
+    <th style="width:16%; text-align:center;">Algorithm & Game Development</th>
   </tr>
   <tr>
-    <td align="center" style="vertical-align:middle;">
+    <td style="vertical-align:top; text-align:center;">
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma Badge" style="margin: 5px;"/>
@@ -94,21 +95,21 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Confluence-0052CC?style=flat-square&logo=confluence&logoColor=white" alt="Confluence Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Badge" style="margin: 5px;"/>
     </td>
-    <td align="center" style="vertical-align:middle;">
+    <td style="vertical-align:top; text-align:center;">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge" style="margin: 5px;"/>
     </td>
-    <td align="center" style="vertical-align:middle;">
+    <td style="vertical-align:top; text-align:center;">
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Badge" style="margin: 5px;"/>
     </td>
-    <td align="center" style="vertical-align:middle;">
+    <td style="vertical-align:top; text-align:center;">
       <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white" alt="REST API Badge" style="margin: 5px;"/>
     </td>
-    <td align="center" style="vertical-align:middle;">
+    <td style="vertical-align:top; text-align:center;">
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins Badge" style="margin: 5px;"/>
     </td>
-    <td align="center" style="vertical-align:middle;">
+    <td style="vertical-align:top; text-align:center;">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/PyGame-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyGame Badge" style="margin: 5px;"/>
     </td>
@@ -127,11 +128,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeoniii20&theme=calm&background=373f51&ring=e07a5f&fire=e07a5f&currStreakLabel=ebcfb2&sideNums=ebcfb2&sideLabels=ebcfb2&dates=ebcfb2" alt="GitHub Streak" height="180"/>
 
 </div>
-
-
-
-
-
 
 
 
