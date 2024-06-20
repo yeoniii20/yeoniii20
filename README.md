@@ -16,34 +16,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" style="max-width: 600px; margin: auto;">
+<div style="max-width: 600px; margin: auto;">
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=373f51&height=100&section=header&text=Suyeon&fontSize=44&desc=Frontend%20Developer&descAlignY=80&descAlign=60&descSize=10&descColor=ffffff)
 
 <br/>
 <br/>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=373f51&height=120&section=header&text=Hi%20I'm%20Suyeon🚗🚘🚛&fontSize=40&fontColor=ebcfb2" alt="header" style="width:100%;"> --!>
+<!-- <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=373f51&height=120&section=header&text=Hi%20I'm%20Suyeon🚗🚘🚛&fontSize=40&fontColor=ebcfb2" alt="header" style="width:100%;"> -->
 
-<h2>📬 Connect 📬</h2>
+## 📬 Connect
 
-<div align="center">
-  <a href="mailto:6suyeon@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/yeoniii20">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</div>
-
+<a href="mailto:6suyeon@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/yeoniii20">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 <br>
 <br>
-<div style="max-width: 400px; margin: auto;">
-<h2>🛠️ Tech Stack 🛠️</h2>
-<br/>
 
-### 🤖 Skills 🤖
+## 🛠️ Tech Stack
+
+### 🤖 Skills
 
 <table style="width:100%; table-layout:fixed;">
   <tr>
@@ -80,7 +76,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-### 🖥️ Tools 🖥️
+### 🖥️ Tools
 
 <table style="width:100%; table-layout:fixed;">
   <tr>
@@ -121,26 +117,19 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-
-
-
 <br>
 <br>
 <br>
 
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm" alt="Suyeon's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&bg_color=373f51&title_color=e07a5f&text_color=ebcfb2&icon_color=ebcfb2" alt="Top Languages" height="180"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm" alt="Suyeon's GitHub stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&bg_color=373f51&title_color=e07a5f&text_color=ebcfb2&icon_color=ebcfb2" alt="Top Languages" height="180"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeoniii20&theme=calm&background=373f51&ring=e07a5f&fire=e07a5f&currStreakLabel=ebcfb2&sideNums=ebcfb2&sideLabels=ebcfb2&dates=ebcfb2" alt="GitHub Streak" height="180"/>
-</div>
-
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yeoniii20&theme=calm&background=373f51&ring=e07a5f&fire=e07a5f&currStreakLabel=ebcfb2&sideNums=ebcfb2&sideLabels=ebcfb2&dates=ebcfb2" alt="GitHub Streak" height="180"/>
 
 </div>
+
 
 
 
