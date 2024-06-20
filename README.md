@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=373f51&height=120&section=header&text=Hi%20I'm%20Suyeon🚗🚘🚛&fontSize=40&fontColor=ebcfb2" alt="header" style="width:100%;"> -->
-
 ## 📬 Connect
 
 <a href="mailto:6suyeon@gmail.com">
@@ -41,11 +39,11 @@ Here are some ideas to get you started:
 
 ### 🤖 Skills
 
-<table style="width:100%; table-layout:fixed;">
+<table style="width:100%;">
   <tr>
-    <th style="width:33%;">Back-End</th>
-    <th style="width:33%;">Front-End</th>
-    <th style="width:33%;">IDE</th>
+    <th>Back-End</th>
+    <th>Front-End</th>
+    <th>IDE</th>
   </tr>
   <tr>
     <td align="center" style="vertical-align:middle;">
@@ -78,14 +76,14 @@ Here are some ideas to get you started:
 
 ### 🖥️ Tools
 
-<table style="width:100%; table-layout:fixed;">
+<table style="width:100%;">
   <tr>
-    <th style="width:16%;">Communication</th>
-    <th style="width:16%;">Management</th>
-    <th style="width:16%;">Environment</th>
-    <th style="width:16%;">API</th>
-    <th style="width:16%;">CI/CD</th>
-    <th style="width:16%;">Algorithm & Game Development</th>
+    <th>Communication</th>
+    <th>Management</th>
+    <th>Environment</th>
+    <th>API</th>
+    <th>CI/CD</th>
+    <th>Algorithm & Game Development</th>
   </tr>
   <tr>
     <td align="center" style="vertical-align:middle;">
@@ -129,6 +127,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeoniii20&theme=calm&background=373f51&ring=e07a5f&fire=e07a5f&currStreakLabel=ebcfb2&sideNums=ebcfb2&sideLabels=ebcfb2&dates=ebcfb2" alt="GitHub Streak" height="180"/>
 
 </div>
+
 
 
 
