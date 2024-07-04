@@ -118,9 +118,11 @@ Here are some ideas to get you started:
   </tr>
   <tr style="border: 1px solid #ddd;">
     <td style="width:25%; font-weight:bold; text-align:left; border: 1px solid #ddd;">Environment</td>
-    <td style="width:75%; text-align:left; border: 1px solid #ddd;">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Badge" style="margin: 5px;"/>
-    </td>
+<td style="width:75%; text-align:left; border: 1px solid #ddd;">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Badge" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel Badge" style="margin: 5px;"/>
+</td>
+
   </tr>
   <tr style="border: 1px solid #ddd;">
     <td style="width:25%; font-weight:bold; text-align:left; border: 1px solid #ddd;">API</td>
