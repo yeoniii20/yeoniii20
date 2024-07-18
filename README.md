@@ -152,9 +152,16 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm" alt="Suyeon's GitHub stats" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&bg_color=373f51&title_color=e07a5f&text_color=ebcfb2&icon_color=ebcfb2" alt="Top Languages" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeoniii20&theme=calm&background=373f51&ring=e07a5f&fire=e07a5f&currStreakLabel=ebcfb2&sideNums=ebcfb2&sideLabels=ebcfb2&dates=ebcfb2" alt="GitHub Streak" height="180"/>
+-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm" alt="Suyeon's GitHub stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&bg_color=373f51&title_color=e07a5f&text_color=ebcfb2&icon_color=ebcfb2" alt="Top Languages" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yeoniii20&theme=calm&background=373f51&ring=e07a5f&fire=e07a5f&currStreakLabel=ebcfb2&sideNums=ebcfb2&sideLabels=ebcfb2&dates=ebcfb2" alt="GitHub Streak" height="180"/>
+
 
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeoniii20&theme=calm&background=373f51&ring=e07a5f&fire=e07a5f&currStreakLabel=ebcfb2&sideNums=ebcfb2&sideLabels=ebcfb2&dates=ebcfb2" alt="GitHub Streak" height="180"/>
