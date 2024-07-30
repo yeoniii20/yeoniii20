@@ -60,7 +60,6 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo Badge" style="margin: 5px;"/>
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js Badge" style="margin: 5px;"/>
     </td>
   </tr>
@@ -75,6 +74,7 @@ Here are some ideas to get you started:
   <tr style="border: 1px solid #ddd;">
     <td style="width:75%; text-align:left; border: 1px solid #ddd;">
       <img src="https://img.shields.io/badge/zustand-000000?style=flat-square&logo=zustand&logoColor=white" alt="Zustand Badge" style="margin: 5px;"/>
+       <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/React--Query-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="React Query Badge" style="margin: 5px;"/>
     </td>
   </tr>
