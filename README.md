@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <table style="width:100%; table-layout:fixed; border-collapse: collapse; border: 1px solid #ddd;">
   <tr style="border: 1px solid #ddd;">
-    <td style="width:25%; font-weight:bold; text-align:left; border: 1px solid #ddd;">Back-End</td>
+    <td style="width:25%; font-weight:bold; text-align:left; border: 1px solid #ddd;">Back-End              </td>
     <td style="width:75%; text-align:left; border: 1px solid #ddd;">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js Badge" style="margin: 5px;"/>
     </td>
