@@ -47,7 +47,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr style="border: 1px solid #ddd;">
-    <td rowspan="3" style="width:25%; font-weight:bold; text-align:left; border: 1px solid #ddd;">Front-End</td>
+    <td rowspan="4" style="width:25%; font-weight:bold; text-align:left; border: 1px solid #ddd;">Front-End</td>
     <td style="width:75%; text-align:left; border: 1px solid #ddd;">
       <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Emotion-C65D8E?style=flat-square&logo=emotion&logoColor=white" alt="Emotion Badge" style="margin: 5px;"/>
@@ -73,20 +73,26 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr style="border: 1px solid #ddd;">
+    <td style="width:75%; text-align:left; border: 1px solid #ddd;">
+      <img src="https://img.shields.io/badge/zustand-000000?style=flat-square&logo=zustand&logoColor=white" alt="Zustand Badge" style="margin: 5px;"/>
+      <img src="https://img.shields.io/badge/React--Query-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="React Query Badge" style="margin: 5px;"/>
+    </td>
+  </tr>
+  <tr style="border: 1px solid #ddd;">
     <td style="width:25%; font-weight:bold; text-align:left; border: 1px solid #ddd;">IDE</td>
     <td style="width:75%; text-align:left; border: 1px solid #ddd;">
       <img src="https://img.shields.io/badge/WebStorm-000020?style=flat-square&logo=webstorm&logoColor=white" alt="WebStorm Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" style="margin: 5px;"/>
     </td>
   </tr>
-   <tr style="border: 1px solid #ddd;">
-    <td style="width:25%; font-weight:bold; text-align:left; border: 1px solid #ddd;">API Document &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  <tr style="border: 1px solid #ddd;">
+    <td style="width:25%; font-weight:bold; text-align:left; border: 1px solid #ddd;">API Document</td>
     <td style="width:75%; text-align:left; border: 1px solid #ddd;">
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman Badge" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" alt="Swagger Badge" style="margin: 5px;"/>
     </td>
   </tr>
-     <tr style="border: 1px solid #ddd;">
+  <tr style="border: 1px solid #ddd;">
     <td style="width:25%; font-weight:bold; text-align:left; border: 1px solid #ddd;">GUI</td>
     <td style="width:75%; text-align:left; border: 1px solid #ddd;">
         <img src="https://img.shields.io/badge/Fork-000000?style=flat-square&logo=fork&logoColor=white" alt="Fork Badge" style="margin: 5px;"/>
