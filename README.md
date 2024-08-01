@@ -63,6 +63,10 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js Badge" style="margin: 5px;"/>
       &nbsp;
       &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
     </td>
   </tr>
   <tr style="border: 1px solid #ddd;">
