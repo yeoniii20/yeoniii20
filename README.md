@@ -69,8 +69,6 @@ Here are some ideas to get you started:
       &nbsp;
       &nbsp;
       &nbsp;
-      &nbsp;
-      &nbsp;
     </td>
   </tr>
   <tr style="border: 1px solid #ddd;">
