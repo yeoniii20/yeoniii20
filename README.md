@@ -136,6 +136,9 @@ Here are some ideas to get you started:
 <td style="width:75%; text-align:left; border: 1px solid #ddd;">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Badge" style="margin: 5px;"/>
   <img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel Badge" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry Badge" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog Badge" style="margin: 5px;"/>
 </td>
 
   </tr>
