@@ -44,7 +44,10 @@ Here are some ideas to get you started:
     <td style="width:25%; font-weight:bold; text-align:left; border: 1px solid #ddd;">Back-End              </td>
     <td style="width:75%; text-align:left; border: 1px solid #ddd;">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js Badge" style="margin: 5px;"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge" style="margin: 5px;"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot Badge" style="margin: 5px;"/>
     </td>
+
   </tr>
   <tr style="border: 1px solid #ddd;">
     <td rowspan="4" style="width:25%; font-weight:bold; text-align:left; border: 1px solid #ddd;">Front-End</td>
