@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+<!--
+
 ## 🛠️ Tech Stack
 
 ### 🤖 Skills
@@ -169,6 +171,8 @@ Here are some ideas to get you started:
 
 <br>
 <br>
+
+-->
 
 ## 📊 GitHub Stats
 
