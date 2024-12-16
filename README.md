@@ -186,10 +186,7 @@ Here are some ideas to get you started:
 
 ### 🤖 Skills
 
-#### Back-End  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
 
 #### Front-End  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
@@ -231,13 +228,20 @@ Here are some ideas to get you started:
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)  
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
+<!--
+
+#### Back-End  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
 ---
 
 ### 🎮 Algorithm & Game Development  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![PyGame](https://img.shields.io/badge/PyGame-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<!--
+
 ### 🗣️ Communication  
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)  
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)  
