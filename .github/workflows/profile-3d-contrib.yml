@@ -18,9 +18,11 @@ jobs:
           username: "yeoniii20"
 
       - name: Commit and Push Changes
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add -A
           git commit -m "Update 3D Contribution Graph" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
