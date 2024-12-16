@@ -203,8 +203,6 @@ Here are some ideas to get you started:
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React--Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
 
-<br>
-
 ### 🖥️ Tools
 
 <!--
