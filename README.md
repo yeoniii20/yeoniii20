@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 />
 
 
-<br/>
-
 ## 📬 Connect
 
 <a href="mailto:6suyeon@gmail.com">
