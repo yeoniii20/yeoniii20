@@ -203,8 +203,9 @@ Here are some ideas to get you started:
 <img 
   src="profile-3d-contrib/profile-south-season.svg" 
   alt="3D 기여 그래프" 
-  style="width: 100%; height: auto;" 
+  style="width: 100%; height: 150px; object-fit: contain;" 
 />
+
 
 
 </div>
