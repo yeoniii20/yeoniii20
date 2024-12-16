@@ -196,7 +196,6 @@ Here are some ideas to get you started:
 
 <!--
 ![3D 기여 그래프](profile-3d-contrib/profile-south-season.svg)
--->
 
 <div style="text-align: left;">
 <img 
@@ -205,6 +204,9 @@ Here are some ideas to get you started:
   style="width: 100%; height: 400px; object-fit: contain;" 
 />
 </div>
+-->
+
+![Snake animation](dist/snake.svg)
 
 
 </div>
