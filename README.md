@@ -19,11 +19,17 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=373f51&height=100&section=header&text=Suyeon&fontSize=44&desc=Frontend%20Developer&descAlignY=80&descAlign=60&descSize=10&descColor=ffffff)
 
-<br/>
-
+<!--
 ![GitHub Animal](https://render.gitanimals.org/lines/yeoniii20)
+-->
 
-<br/>
+<img 
+  src="https://render.gitanimals.org/lines/yeoniii20" 
+  alt="GitHub Animal" 
+  style="width: 100%; height: auto;" 
+/>
+
+
 <br/>
 
 ## 📬 Connect
@@ -189,6 +195,8 @@ Here are some ideas to get you started:
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeoniii20&theme=calm&background=373f51&ring=e07a5f&fire=e07a5f&currStreakLabel=ebcfb2&sideNums=ebcfb2&sideLabels=ebcfb2&dates=ebcfb2" alt="GitHub Streak" height="180"/>
 -->
+
+![3D Contribution Graph](profile-south-season.svg)
 
 </div>
 
