@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   style="width: 100%; height: auto;" 
 />
 
+<!--
 
 ## 📬 Connect
 
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<!--
+
 
 ## 🛠️ Tech Stack
 
