@@ -204,9 +204,10 @@ Here are some ideas to get you started:
   style="width: 100%; height: 400px; object-fit: contain;" 
 />
 </div>
--->
 
 ![Snake animation](dist/snake.svg)
+
+-->
 
 
 </div>
