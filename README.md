@@ -186,8 +186,6 @@ Here are some ideas to get you started:
 
 ### 🤖 Skills
 
-
-
 #### Front-End  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) 
@@ -209,7 +207,6 @@ Here are some ideas to get you started:
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React--Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
 
----
 
 ### 🖥️ Tools
 
@@ -227,6 +224,8 @@ Here are some ideas to get you started:
 #### Monitoring & Logging  
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)  
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+
+<br>
 
 <!--
 
