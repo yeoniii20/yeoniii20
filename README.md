@@ -32,7 +32,7 @@ Here are some ideas to get you started:
    <img 
     src="https://render.gitanimals.org/lines/yeoniii20?pet-id=656289045321210015"
     alt="GitHub Animal 2" 
-    style="width: 25%; height: auto;" 
+    style="width: 20%; height: auto;" 
   />
   <img 
     src="https://render.gitanimals.org/lines/yeoniii20?pet-id=656289045321210020"
