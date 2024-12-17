@@ -23,11 +23,30 @@ Here are some ideas to get you started:
 ![GitHub Animal](https://render.gitanimals.org/lines/yeoniii20)
 -->
 
-<img 
-  src="https://render.gitanimals.org/lines/yeoniii20" 
-  alt="GitHub Animal" 
-  style="width: 100%; height: auto;" 
-/>
+<div align="center">
+  <img 
+    src="https://render.gitanimals.org/lines/yeoniii20?pet-id=656289045321210018" 
+    alt="GitHub Animal 1" 
+    style="width: 20%; height: auto;" 
+  />
+   <img 
+    src="https://render.gitanimals.org/lines/yeoniii20?pet-id=656289045321210015"
+    alt="GitHub Animal 2" 
+    style="width: 20%; height: auto;" 
+  />
+  <img 
+    src="https://render.gitanimals.org/lines/yeoniii20?pet-id=656289045321210020"
+    alt="GitHub Animal 2" 
+    style="width: 20%; height: auto;" 
+  />
+   <img 
+    src="https://render.gitanimals.org/lines/yeoniii20?pet-id=656289045321210019"
+    alt="GitHub Animal 2" 
+    style="width: 20%; height: auto;" 
+  />
+</div>
+
+<br>
 
 <!--
 
