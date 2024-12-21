@@ -1,20 +1,3 @@
-<!-- ## Hi there 👋 -->
-
-<!--
-**yeoniii20/yeoniii20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeoniii20&theme=calm&background=373f51&ring=e07a5f&fire=e07a5f&currStreakLabel=ebcfb2&sideNums=ebcfb2&sideLabels=ebcfb2&dates=ebcfb2)](https://git.io/streak-stats)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div style="max-width: 600px; margin: auto;">
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=373f51&height=100&section=header&text=Suyeon&fontSize=44&desc=Frontend%20Developer&descAlignY=80&descAlign=60&descSize=10&descColor=ffffff)
@@ -270,9 +253,6 @@ Here are some ideas to get you started:
 
 </div>
 
-<!--
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yeoniii20&theme=calm&background=373f51&ring=e07a5f&fire=e07a5f&currStreakLabel=ebcfb2&sideNums=ebcfb2&sideLabels=ebcfb2&dates=ebcfb2" alt="GitHub Streak" height="180"/>
--->
 
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeoniii20&theme=calm&background=373f51&ring=e07a5f&fire=e07a5f&currStreakLabel=ebcfb2&sideNums=ebcfb2&sideLabels=ebcfb2&dates=ebcfb2" alt="GitHub Streak" height="180"/>
