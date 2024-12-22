@@ -185,28 +185,6 @@
 
 -->
 
-<!--
-
-#### Back-End  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
----
-
-### 🎮 Algorithm & Game Development  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![PyGame](https://img.shields.io/badge/PyGame-3776AB?style=flat-square&logo=python&logoColor=white)
-
-
-### 🗣️ Communication  
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)  
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)  
-![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=flat-square&logo=confluence&logoColor=white)  
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
--->
 <div align="center">
 
 ## 🛠️ Tech Stack
