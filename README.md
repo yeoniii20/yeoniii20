@@ -2,9 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=373f51&height=100&section=header&text=Suyeon&fontSize=44&desc=Frontend%20Developer&descAlignY=80&descAlign=60&descSize=10&descColor=ffffff)
 
-<!--
-![GitHub Animal](https://render.gitanimals.org/lines/yeoniii20)
--->
 
 <div align="center">
   <img 
