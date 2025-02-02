@@ -77,9 +77,7 @@
 
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeoniii20&theme=calm&background=373f51&ring=e07a5f&fire=e07a5f&currStreakLabel=ebcfb2&sideNums=ebcfb2&sideLabels=ebcfb2&dates=ebcfb2" alt="GitHub Streak" height="180"/>
--->
 
-<!--
 ![3D 기여 그래프](profile-3d-contrib/profile-south-season.svg)
 
 <div style="text-align: left;">
