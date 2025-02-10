@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=373f51&height=100&section=header&text=Suyeon&fontSize=44&desc=Frontend%20Developer&descAlignY=80&descAlign=60&descSize=10&descColor=ffffff)
 
-
+<!--
 <div align="center">
   <img 
     src="https://render.gitanimals.org/lines/yeoniii20?pet-id=656289045321210018" 
@@ -25,12 +25,15 @@
     style="width: 25%; height: auto;" 
   />
 </div>
+-->
 
 <br>
 
 <div align="center">
 
+<!--
 ## 🛠️ Tech Stack
+-->
 
 <p align="center">
   <!-- First Row -->
@@ -113,7 +116,9 @@
 <br>
 <br>
 
+<!--
 ## 📊 GitHub Stats
+-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm" alt="Suyeon's GitHub stats" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&bg_color=373f51&title_color=e07a5f&text_color=ebcfb2&icon_color=ebcfb2" alt="Top Languages" height="180"/>
