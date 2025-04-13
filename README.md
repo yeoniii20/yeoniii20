@@ -35,9 +35,6 @@
 
 <div align="center">
 
-<!--
-## 🛠️ Tech Stack
--->
 
 <!--
 https://skillicons.dev/
