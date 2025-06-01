@@ -124,10 +124,6 @@ https://skillicons.dev/
 <br>
 <br>
 
-<!--
-## 📊 GitHub Stats
--->
-
 <img src="https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm" alt="Suyeon's GitHub stats" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&bg_color=373f51&title_color=e07a5f&text_color=ebcfb2&icon_color=ebcfb2" alt="Top Languages" height="180"/>
 
