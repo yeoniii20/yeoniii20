@@ -120,9 +120,6 @@ https://skillicons.dev/
 </div>
 -->
 
-          
-<br>
-<br>
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm" alt="Suyeon's GitHub stats" height="180"/>
