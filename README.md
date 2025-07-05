@@ -7,6 +7,7 @@
 </p>
 
 <!--
+=== 동물 ===
 <div align="center">
   <img 
     src="https://render.gitanimals.org/lines/yeoniii20?pet-id=656289045321210018" 
