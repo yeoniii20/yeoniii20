@@ -1,52 +1,22 @@
 <div style="max-width: 800px; margin: auto;">
 
-<p align="center">
+<!-- <p align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=373f51&height=100&section=header&text=Suyeon&fontSize=44&desc=Frontend%20Developer&descAlignY=80&descAlign=60&descSize=10&descColor=ffffff)
 
 </p>
+ -->
 
-<!--
-=== 동물 ===
-<div align="center">
-  <img 
-    src="https://render.gitanimals.org/lines/yeoniii20?pet-id=656289045321210018" 
-    alt="GitHub Animal 1" 
-    style="width: 25%; height: auto;" 
-  />
-   <img 
-    src="https://render.gitanimals.org/lines/yeoniii20?pet-id=656289045321210015"
-    alt="GitHub Animal 2" 
-    style="width: 20%; height: auto;" 
-  />
-  <img 
-    src="https://render.gitanimals.org/lines/yeoniii20?pet-id=656289045321210020"
-    alt="GitHub Animal 2" 
-    style="width: 25%; height: auto;" 
-  />
-   <img 
-    src="https://render.gitanimals.org/lines/yeoniii20?pet-id=656289045321210019"
-    alt="GitHub Animal 2" 
-    style="width: 25%; height: auto;" 
-  />
-</div>
--->
+<img src="/image/hello_with_text.svg" width="800" />
 
+
+<br>
 <br>
 
 <div align="center">
 
 
-<!--
-https://skillicons.dev/
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="35" />
--->
+
 
 <p align="center">
   <!-- Frontend -->
@@ -57,34 +27,49 @@ https://skillicons.dev/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" width="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" />
 </p>
 
 <p align="center">
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="35" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="35" />      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="35" />
-  
-</p>
-
-<p align="center">
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="35" />
+  
 </p>
 
 
+<br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C49FC8&icon_color=C49FC8&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C49FC8&text_color=FFFFFF" height="180"/>
+
+</div>
+
+
+</div>
+<!--
+https://skillicons.dev/
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="35" />
+-->
 
 <!--
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -120,14 +105,31 @@ https://skillicons.dev/
   
 </div>
 -->
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=calm" alt="Suyeon's GitHub stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&bg_color=373f51&title_color=e07a5f&text_color=ebcfb2&icon_color=ebcfb2" alt="Top Languages" height="180"/>
-
+<!--
+=== 동물 ===
+<div align="center">
+  <img 
+    src="https://render.gitanimals.org/lines/yeoniii20?pet-id=656289045321210018" 
+    alt="GitHub Animal 1" 
+    style="width: 25%; height: auto;" 
+  />
+   <img 
+    src="https://render.gitanimals.org/lines/yeoniii20?pet-id=656289045321210015"
+    alt="GitHub Animal 2" 
+    style="width: 20%; height: auto;" 
+  />
+  <img 
+    src="https://render.gitanimals.org/lines/yeoniii20?pet-id=656289045321210020"
+    alt="GitHub Animal 2" 
+    style="width: 25%; height: auto;" 
+  />
+   <img 
+    src="https://render.gitanimals.org/lines/yeoniii20?pet-id=656289045321210019"
+    alt="GitHub Animal 2" 
+    style="width: 25%; height: auto;" 
+  />
 </div>
-
+-->
 
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeoniii20&theme=calm&background=373f51&ring=e07a5f&fire=e07a5f&currStreakLabel=ebcfb2&sideNums=ebcfb2&sideLabels=ebcfb2&dates=ebcfb2" alt="GitHub Streak" height="180"/>
@@ -146,6 +148,4 @@ https://skillicons.dev/
 
 -->
 
-
-</div>
 
