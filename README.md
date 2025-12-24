@@ -9,7 +9,7 @@
 
 <img src="/image/hello_with_text.svg" width="800" />
 
-
+<!-- 
 <br>
 <br>
 
@@ -19,7 +19,6 @@
 
 
 <p align="center">
-  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35" />
@@ -34,7 +33,6 @@
 </p>
 
 <p align="center">
-  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="35" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="35" />      
@@ -56,7 +54,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C49FC8&icon_color=C49FC8&text_color=FFFFFF" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C49FC8&text_color=FFFFFF" height="180"/>
 
-</div>
+</div> -->
 
 
 </div>
