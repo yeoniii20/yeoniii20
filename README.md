@@ -6,12 +6,10 @@
 
 </p>
  -->
-
+<!--
 <img src="/image/hello_with_text.svg" width="800" />
+ -->
 
-<!-- 
-<br>
-<br>
 
 <div align="center">
 
@@ -48,15 +46,15 @@
   
 </p>
 
-
+<!--
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yeoniii20&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C49FC8&icon_color=C49FC8&text_color=FFFFFF" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoniii20&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C49FC8&text_color=FFFFFF" height="180"/>
 
-</div> -->
+</div>
 
-
+-->
 </div>
 <!--
 https://skillicons.dev/
